@@ -8,12 +8,15 @@
     <title>使用@font-face自定义字体</title>
     <style>
         @font-face {
-            font-family: xujinglei;
+            /* 定义字体名称 */
+            font-family: xujinglei; 
+            /* 字体在服务器的位置，即发请求的url */
             src: url('../assests/01/xujinglei.ttf'), url('../assests/01/xujinglei.eot');
             /* IE9+ */
         }
 
         div {
+            /* 使用已经自定义的字体！ */
             font-family: xujinglei;
             font-size: 18px;
         }
