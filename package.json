@@ -1,0 +1,22 @@
+{
+  "name": "css-demo",
+  "version": "1.0.0",
+  "description": "CSS书上的一些实例demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppambler/css-demo.git"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "Ambler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppambler/css-demo/issues"
+  },
+  "homepage": "https://github.com/ppambler/css-demo#readme"
+}
